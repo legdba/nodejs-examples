@@ -1,0 +1,11 @@
+{
+  "name": "001_module_as_a_function",
+  "version": "1.0.0",
+  "description": "In Node everything in a file is private to that file. I.e. *things* in a file are only visible to other *things* in the same file.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Legdba",
+  "license": "Apache-2.0"
+}

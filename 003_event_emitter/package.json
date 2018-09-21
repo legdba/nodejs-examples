@@ -1,0 +1,11 @@
+{
+  "name": "003_event_emitter",
+  "version": "1.0.0",
+  "description": "The ```EventEmitter``` is a major feature of NodeJS. But the documentation assumes extending from it as a class, which is not practical at all.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Legdba",
+  "license": "Apache-2.0"
+}

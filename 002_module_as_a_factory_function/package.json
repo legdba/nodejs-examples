@@ -1,0 +1,11 @@
+{
+  "name": "002_module_as_a_factory_function",
+  "version": "1.0.0",
+  "description": "Here the ```Foo``` 'class' is a factory function that returns an object with a built-in method.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Legdba",
+  "license": "Apache-2.0"
+}

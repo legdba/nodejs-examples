@@ -1,0 +1,13 @@
+{
+  "name": "008_nops",
+  "version": "1.0.0",
+  "description": "demo how to handle params from nops (more basic than yargs)",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Legdba",
+  "license": "Apache-2.0"
+}

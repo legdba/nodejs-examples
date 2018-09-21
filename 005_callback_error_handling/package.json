@@ -1,0 +1,11 @@
+{
+  "name": "005_callback_error_handling",
+  "version": "1.0.0",
+  "description": "Good-old-callbacks need to be coded with extra care to be usable and reliable.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Legdba",
+  "license": "Apache-2.0"
+}
